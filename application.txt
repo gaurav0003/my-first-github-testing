@@ -4,3 +4,6 @@ es file explorer
 whatsapp 
 telegram
 facebook
+
+twitter 
+instagram
