@@ -7,3 +7,5 @@ facebook
 
 twitter 
 instagram
+snapchat
+youtube
