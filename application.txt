@@ -9,3 +9,6 @@ twitter
 instagram
 snapchat
 youtube
+
+quora
+medium
